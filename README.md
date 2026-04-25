@@ -28,7 +28,7 @@ We use Nix Flake as our main build system. If you have not installed nix, instal
 **1. Clone Repository**
 
 ```bash
-git clone https://github.com/DangoSys/buckyball.git
+git clone https://github.com/DangoSys/playground.git
 ```
 
 **2. Initialize Environment**
